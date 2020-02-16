@@ -1,0 +1,33 @@
+.photo-gallery {
+  /* Prevent vertical gaps */
+  line-height: 0;
+  padding: 0;
+  margin: 0 -10px;
+  vertical-align: top;
+    
+  -webkit-column-count: 2;
+  -webkit-column-gap:   0px;
+  -moz-column-count:    2;
+  -moz-column-gap:      0px;
+  column-count:         2;
+  column-gap:           0px;
+
+  ul {
+    margin: 0;
+  }
+  li {
+      display: block;
+      list-style: none;
+      padding: 10px;
+      margin: 0;
+      break-inside: avoid-column;         /* IE 11 */
+  }
+}
+
+@media (max-width: 600px) {
+  .photo-gallery {
+      -moz-column-count:    1;
+      -webkit-column-count: 1;
+      column-count:         1;
+  }
+}

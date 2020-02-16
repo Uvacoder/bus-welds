@@ -1,0 +1,6 @@
+- image: ./images/handrail_closeup.jpg
+  alt: 'Metal handrail close up'
+- image: ./images/truck_bed.jpg
+  alt: 'Metal truck bed'
+- image: ./images/pipe.jpg
+  alt: 'Pipe end with clean welds'
