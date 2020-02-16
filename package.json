@@ -22,7 +22,8 @@
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+    "gatsby-plugin-netlify": "^2.1.32"
   },
   "keywords": [
     "gatsby"
