@@ -1,20 +1,20 @@
 - image: ./images/iceberg-front.jpg
   alt: 'A white Ford van with a metal generator box on the front'
-- image: ./images/truck_bed.jpg
-  alt: 'Metal truck bed'
-- image: ./images/genbox.jpg
-  alt: 'Edge of a welded metal generator box'
-- image: ./images/hitch.jpg
-  alt: 'A metal hitch mount'
-- image: ./images/rear-bumper.jpg
-  alt: 'Rear bumper with lights and a spare tire holder'
-- image: ./images/pipe.jpg
-  alt: 'Pipe end with clean welds'
-- image: ./images/chris-bumper.jpg
-  alt: 'A metal bumper with a spare tire and generator box on the back of a blue Ford van'
 - image: ./images/iceberg-back.jpg
   alt: 'White Ford van with a bumper holding a spare tire, bike rack with 2 bikes, and generator box'
-- image: ./images/handrail_closeup.jpg
-  alt: 'Metal handrail close up'
+- image: ./images/genbox.jpg
+  alt: 'Edge of a welded metal generator box'
+- image: ./images/pipe.jpg
+  alt: 'Pipe end with clean welds'
+- image: ./images/rear-bumper.jpg
+  alt: 'Rear bumper with lights and a spare tire holder'
+- image: ./images/steps-handrail.jpg
+  alt: 'Metal handrail and wood/metal steps at a residence'
+- image: ./images/chris-bumper.jpg
+  alt: 'A metal bumper with a spare tire and generator box on the back of a blue Ford van'
+- image: ./images/truck_bed.jpg
+  alt: 'Metal truck bed'
+- image: ./images/hitch.jpg
+  alt: 'Metal hitch up close'
 - image: ./images/railing.jpg
   alt: 'Metal railing'
